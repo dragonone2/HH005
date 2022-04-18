@@ -98,8 +98,8 @@
       `;
 
     }else{
-    	document.getElementById("status").innerHTML = `<h3 style="color: #085129;"><i class="fa fa-check-square"></i></h3>
-    	<h3 style="color: #085129;">횡단보도 안전확보</h3>`;
+    	document.getElementById("status").innerHTML = 
+    	`<h3 style="color: #085129;">횡단보도 안전확보</h3>`;
     }
 
 
